@@ -1,0 +1,15 @@
+{
+  "name": "randomritual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpu": "^1.0.1",
+    "p5": "^0.8.0"
+  }
+}
